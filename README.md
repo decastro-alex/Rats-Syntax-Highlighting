@@ -3,6 +3,15 @@ Simplified syntax highlighter for [RATS (Estima)](https://www.estima.com/ratsmai
 
 ![](rats_with_highlighting.png)
 
+## How to install
+1. Download [Sublime Text](http://www.sublimetext.com/)
+2. Open the `Rats.sublime-syntax` file with Sublime.
+3. Now open the Sublime Console with `View > Show Console` or press the associated key binding. You'll see that the last line in the console is this:
+
+```generating syntax summary```
+
+4. When you restart Sublime you should see the option for `Rats`in `View > Syntax`. It should also be visible when you click on the bottom right corner of an open document tab where the file type is declared.
+
 ## Licence
 Copyright 2021 by Alex Ribeiro-Castro.
 
