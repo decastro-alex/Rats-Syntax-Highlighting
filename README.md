@@ -1,6 +1,8 @@
 # Rats-Syntax-Highlighting
 Simplified syntax highlighter for [RATS (Estima)](https://www.estima.com/ratsmain.shtml) and compatible with Sublime Text.  
 
+![](rats_with_highlighting.png)
+
 ## Licence
 Copyright 2021 by Alex Ribeiro-Castro.
 
