@@ -4,7 +4,7 @@ Simplified syntax highlighter for [RATS (Estima)](https://www.estima.com/ratsmai
 ![](rats_with_highlighting.png)
 
 ## How to install
-1. Download [Sublime Text](http://www.sublimetext.com/)
+1. Download [Sublime Text](http://www.sublimetext.com/).
 2. Open the `Rats.sublime-syntax` file with Sublime.
 3. Now open the Sublime Console with `View > Show Console` or press the associated key binding. You'll see that the last line in the console is this:
 
